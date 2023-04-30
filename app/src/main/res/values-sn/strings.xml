@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L06_Mupindu_60773_Mid1</string>
+    <string name="btnImages">Pikicha</string>
+    <string name="btnGame">Tanga mutambo</string>
+    <string name="txtFirstName">Zita rekuTanga:</string>
+    <string name="txtLastName">Zita reMhuri:</string>
+    <string name="btnToMain">Chikamu Chekutanga</string>
+</resources>

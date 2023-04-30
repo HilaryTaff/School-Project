@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">L06_Mupindu_60773_Mid1</string>
+    <string name="authorName" translatable="false">Hilary Tafadzwa Mupindu 60773</string>
+    <string name="appInfo" translatable="false">MidTerm1</string>
+    <string name="btnImages">See Images</string>
+    <string name="btnComplexNumbers" translatable="false">Complex Number Calculator</string>
+    <string name="btnGame">Start Game</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtImages" translatable="false">Images Page</string>
+    <string name="txtComplexCalculator" translatable="false">Complex Number Calculator</string>
+    <string name="txtGame" translatable="false">Guessing Game</string>
+    <string name="btnToMain">Main Activity</string>
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+    </string-array>
+    <string name="btnRandomize" translatable="false">New Game</string>
+    <string name="txtResult" translatable="false">Result</string>
+    <string name="txtCalculate" translatable="false">Calculate</string>
+</resources>
